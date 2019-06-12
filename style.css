@@ -86,3 +86,15 @@ h1
     background-color: darkkhaki;
     font-family: "Roboto", sans-serif;
 }
+
+footer{
+    position: absolute;
+    bottom: 10px;
+}
+
+.box1{
+    border: 5px black;
+    position: absolute;
+    right: 45% ;
+    font-size: 30px;
+}

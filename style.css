@@ -93,8 +93,10 @@ footer{
 }
 
 .box1{
-    border: 5px black;
+    border: 5px solid white;
+    padding: 15px 25px;
     position: absolute;
     right: 45% ;
-    font-size: 30px;
+    font-size: 35px;
+    font-family: monospace;
 }
